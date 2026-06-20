@@ -86,9 +86,6 @@ When you enter `admin' OR '1'='1'--`, that becomes part of the SQL query.
 
 <img width="1440" height="752" alt="JuiceShop" src="https://github.com/user-attachments/assets/2924dcc0-416b-411d-847a-38433a455c40" />
 
-
-![Screenshot 1: Juice Shop Homepage](images/JuiceShop.png)
-
 Click the **Login** button (top right corner).
 
 ### Step 2: Analyze the Request (Understanding the API)
