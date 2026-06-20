@@ -84,6 +84,9 @@ When you enter `admin' OR '1'='1'--`, that becomes part of the SQL query.
 
 ### Step 1: Navigate to Login Page
 
+<img width="1440" height="752" alt="JuiceShop" src="https://github.com/user-attachments/assets/2924dcc0-416b-411d-847a-38433a455c40" />
+
+
 ![Screenshot 1: Juice Shop Homepage](images/JuiceShop.png)
 
 Click the **Login** button (top right corner).
@@ -98,8 +101,6 @@ Click the **Login** button (top right corner).
 5. Click Login
 6. Click `/api/login` request
 7. Check **Request** → See parameters: `email` and `password`
-
-<img width="1440" height="752" alt="JuiceShop" src="https://github.com/user-attachments/assets/a6094796-f0c4-442a-b5cd-9e9dbf06a4b3" />
 
 ![Screenshot 2: Empty Login Form](images/LoginPage.png)
 
