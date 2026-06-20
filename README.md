@@ -116,7 +116,8 @@ test123
 
 **Click Login**
 
-![Screenshot 3: SQL Injection Payload](images/SQLpayload.png)
+<img width="1440" height="644" alt="SQL payload " src="https://github.com/user-attachments/assets/b93285c2-7292-4513-aeaf-7b2f0b75cdba" />
+
 
 ### Step 4: Success!
 
