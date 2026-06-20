@@ -142,7 +142,9 @@ test123
 }
 ```
 
-![Screenshot 5: Network Tab Response](images/Dev_tools.png)
+<img width="1439" height="171" alt="payload" src="https://github.com/user-attachments/assets/a6308208-55b8-472b-b058-eb7883a4e054" />
+
+
 
 **This is the same API call I analyzed before, but now I understand what happens when it's vulnerable!**
 
