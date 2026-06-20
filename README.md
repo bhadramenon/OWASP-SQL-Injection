@@ -124,7 +124,8 @@ test123
 - Logged in as **admin** without knowing the password! ✅
 - Check your profile (top right) → Shows "admin@juice-shop.com"
 
-![Screenshot 4: Logged in as Admin](success.png)
+<img width="1440" height="407" alt="Screenshot 2026-06-20 at 2 06 15 PM" src="https://github.com/user-attachments/assets/85163c54-15c5-493c-b6bd-dd5581a28a65" />
+
 
 ### Step 5: Verify with Dev Tools
 
