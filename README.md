@@ -99,6 +99,8 @@ Click the **Login** button (top right corner).
 6. Click `/api/login` request
 7. Check **Request** → See parameters: `email` and `password`
 
+<img width="1440" height="752" alt="JuiceShop" src="https://github.com/user-attachments/assets/a6094796-f0c4-442a-b5cd-9e9dbf06a4b3" />
+
 ![Screenshot 2: Empty Login Form](images/LoginPage.png)
 
 **What I learned:** The login form sends a POST request to `/api/login` with JSON containing email and password.
