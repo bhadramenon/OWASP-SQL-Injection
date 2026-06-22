@@ -254,15 +254,7 @@ models.sequelize.query(
 **Problem:** String concatenation (`${email}`) allows SQL injection!
 
 ---
-## 📸 Screenshots
 
-1. ![Homepage](images/JuiceShop.png)
-2. ![Empty Login](images/LoginPage.png)
-3. ![SQL Injection](images/screenshot3-SQLpayload.png)
-4. ![Success](images/login_success.png)
-5. ![Dev Tools](images/Dev_tools.png)
-
----
 
 ## 🚀 Where I'm Going Next
 
