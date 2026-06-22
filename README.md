@@ -144,7 +144,7 @@ test123
 
 <img width="1439" height="171" alt="payload" src="https://github.com/user-attachments/assets/a6308208-55b8-472b-b058-eb7883a4e054" />
 
-
+<img width="1440" height="470" alt="Screenshot 2026-06-22 at 8 12 50 AM" src="https://github.com/user-attachments/assets/1bd0a418-d6ca-43c9-9f90-014f4b5b7757" />
 
 **This is the same API call I analyzed before, but now I understand what happens when it's vulnerable!**
 
