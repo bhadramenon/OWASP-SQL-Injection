@@ -10,7 +10,8 @@
 
 ## 🎬 Video Demo
 
-[INSERT YOUR SCREEN RECORDING HERE - YouTube link or MP4 file]
+https://github.com/user-attachments/assets/0bd87eac-d906-4a6c-b1bb-2c5515ee7e9f
+
 
 *Watch the full exploit: Login page → SQL Injection payload → Successful login as admin → Dev Tools network tab*
 
