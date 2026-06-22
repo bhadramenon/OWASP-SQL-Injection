@@ -96,14 +96,14 @@ This is what was **inside** the login request. When I clicked on the POST packet
 
 ```json
 {
-  "email": "admin' OR 1=1--",
+  "email": "admin' OR '1'='1'--",
   "password": "anything"
 }
 ```
 
 This is the SQL Injection payload sitting right there in **plaintext**.
 
-No real user would ever type `admin' OR 1=1--` as their email address. This is a clear sign of an attack.
+No real user would ever type `admin' OR '1'='1'--` as their email address. This is a clear sign of an attack.
 
 **Why does this payload work?**
 
@@ -114,7 +114,7 @@ The backend of Juice Shop builds its database query by directly inserting whatev
 SELECT * FROM Users WHERE email = 'user@email.com' AND password = '...'
 
 -- What it asked after my injection:
-SELECT * FROM Users WHERE email = 'admin' OR 1=1--' AND password = '...'
+SELECT * FROM Users WHERE email = 'admin' OR '1'='1'--' AND password = '...'
 ```
 
 - `OR 1=1` is always true — so the email check passes no matter what
