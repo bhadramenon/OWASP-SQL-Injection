@@ -99,7 +99,6 @@ Click the **Login** button (top right corner).
 6. Click `/api/login` request
 7. Check **Request** → See parameters: `email` and `password`
 
-![Screenshot 2: Empty Login Form](images/LoginPage.png)
 
 **What I learned:** The login form sends a POST request to `/api/login` with JSON containing email and password.
 
